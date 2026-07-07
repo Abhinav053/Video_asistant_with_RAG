@@ -1,8 +1,2 @@
 .env
-node_modules/
-dist/
-build/
-__pycache__/
-*.pyc
-vector_db/
-downloades/
+.downloades
