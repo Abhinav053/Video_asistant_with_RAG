@@ -1,6 +1,5 @@
 import whisper
 import os
-os.environ["PATH"] += os.pathsep + r"C:\ffmpeg\ffmpeg-8.1.1-essentials_build\bin"
 import requests
 from pydub import AudioSegment
 
